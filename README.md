@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![React Todo App](./banner.png)
 
 # React Todo App.
@@ -100,3 +101,6 @@ For support, join our [Community Group](http://facebook.com/groups/webcifar).
 [MIT](https://choosealicense.com/licenses/mit/)
 
 Happy Coding! 🚀
+=======
+# Todo_App
+>>>>>>> 67f8123c25e384b7559fb324e1235394ac3fc7de
